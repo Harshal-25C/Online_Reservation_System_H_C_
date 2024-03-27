@@ -1,6 +1,6 @@
 # Online Reservation System
 
-This is a simple Java application for an Online Reservation System, developed by [Harshal-25c](https://github.com/Harshal-25c).
+> This is a simple Java application for an Online Reservation System, developed by [Harshal-25c](https://github.com/Harshal-25c).
 
 ## Introduction
 
