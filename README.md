@@ -8,8 +8,8 @@ This project provides a basic implementation of an online reservation system tha
 
 ## Features
 
-- User authentication: Users can log in using their username and password.
-- CRUD operations: Users can perform CRUD operations (Create, Read, Update, Delete) on reservations.
+- User authentication : Users can log in using their `MySQL username` and `Mysqlpassword`.
+- CRUD operations : Users can perform CRUD operations (Create, Read, Update, Delete) on reservations.
 - Randomly generated PNR numbers for each reservation.
 - Easy-to-use command-line interface.
 
@@ -39,4 +39,23 @@ Ensure you have installed These on your system
 
 - Open the `Task_1.java` file.
 - Modify the url , username , and password variables in the main method according to your `MySQL database` configuration.
+
+(4). **Compile and run the application :**
+
+   ```bash
+   javac Task_1.java
+   java Task_1
+   ```
+
+## Usage :
+
+Run the application.
+Log in using your MySQL username and password.
+
+Choose an option from the menu:
+     > 1: Insert Record
+     > 2: Delete Record
+     > 3: Show All Records
+     > 4: Exit
+
    
