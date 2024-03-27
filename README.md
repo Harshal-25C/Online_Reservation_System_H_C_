@@ -49,13 +49,13 @@ Ensure you have installed These on your system
 
 ## Usage :
 
-Run the application.
-Log in using your MySQL username and password.
+- Run the application.
+- Log in using your MySQL username and password.
 
 Choose an option from the menu:
-     > 1: Insert Record
-     > 2: Delete Record
-     > 3: Show All Records
-     > 4: Exit
+     > - 1. Insert Record
+     > - 2. Delete Record
+     > - 3. Show All Records
+     > - 4. Exit
 
    
