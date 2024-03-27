@@ -2,11 +2,11 @@
 
 > This is a simple Java application for an Online Reservation System, developed by [Harshal-25c](https://github.com/Harshal-25c).
 
-## Introduction
+## Introduction :
 
-This project provides a basic implementation of an online reservation system that allows users to perform various operations such as adding, deleting, and viewing reservations. It uses MySQL database for data storage and JDBC for database connectivity.
+This project provides a Basic Implementation of an Online Reservation System that allows users to perform various operations such as Adding, Deleting, and Viewing Reservations. It uses `MySQL database` for data storage and `JDBC` for database connectivity.
 
-## Features
+## Features :
 
 - User authentication : Users can log in using their `MySQL username` and `Mysqlpassword`.
 - CRUD operations : Users can perform CRUD operations (Create, Read, Update, Delete) on reservations.
@@ -52,5 +52,6 @@ Choose an option from the menu :
 >  2. Delete Record
 >  3. Show All Records
 >  4. Exit
+
 
    
