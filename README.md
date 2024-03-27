@@ -8,8 +8,8 @@ This project provides a Basic Implementation of an Online Reservation System tha
 
 ## Features :
 
-- User authentication : Users can log in using their `MySQL username` and `Mysqlpassword`.
-- CRUD operations : Users can perform CRUD operations (Create, Read, Update, Delete) on reservations.
+- User authentication : Users can log in using their `MySQL username` and `MySQL password`.
+- `CRUD` operations : Users can perform CRUD operations (Create, Read, Update, Delete) on reservations.
 - Randomly generated PNR numbers for each reservation.
 - Easy-to-use command-line interface.
 
