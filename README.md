@@ -1,18 +1,27 @@
-## Getting Started
+# Online Reservation System
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This is a simple Java application for an Online Reservation System, developed by [Harshal-25c](https://github.com/Harshal-25c).
 
-## Folder Structure
+## Introduction
 
-The workspace contains two folders by default, where:
+This project provides a basic implementation of an online reservation system that allows users to perform various operations such as adding, deleting, and viewing reservations. It uses MySQL database for data storage and JDBC for database connectivity.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Features
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- User authentication: Users can log in using their username and password.
+- CRUD operations: Users can perform CRUD operations (Create, Read, Update, Delete) on reservations.
+- Randomly generated PNR numbers for each reservation.
+- Easy-to-use command-line interface.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Requirements
 
-## Dependency Management
+- Java Development Kit (JDK)
+- MySQL Database
+- JDBC Driver
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/Harshal-25c/Online-Reservation-System.git
