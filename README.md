@@ -16,9 +16,9 @@ This project provides a basic implementation of an online reservation system tha
 ## Requirements :
 Ensure you have installed These on your system
 
-- Java Development Kit (JDK) : [Install JDK](https://www.oracle.com/in/java/technologies/downloads/).
-- MySQL Database : [Download MySQL on your system](https://www.mysql.com/downloads/).
-- JDBC Driver : [Setup JDBC Connecter](https://dev.mysql.com/downloads/connector/j/).
+> - Java Development Kit (JDK) : [Install JDK](https://www.oracle.com/in/java/technologies/downloads/).
+  - MySQL Database : [Download MySQL on your system](https://www.mysql.com/downloads/).
+  - JDBC Driver : [Setup JDBC Connecter](https://dev.mysql.com/downloads/connector/j/).
 
 ## Installation
 
