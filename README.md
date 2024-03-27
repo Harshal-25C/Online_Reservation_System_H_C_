@@ -22,19 +22,20 @@ Ensure you have installed These on your system
 
 ## Installation
 
-1. **Clone the repository :**
+(1). **Clone the repository :**
 
    ```bash
    git clone https://github.com/Harshal-25c/Online-Reservation-System.git
+   ```
 
 
-2. **Set up the MySQL database :**
+(2). **Set up the MySQL database :**
 
 - Create a database named 'harshal' (you can change this in the code).
 - Import the SQL script provided in the repository to create the necessary table (reservations).
 
 
-3. **Configure the database connection :**
+(3). **Configure the database connection :**
 
 - Open the `Task_1.java` file.
 - Modify the url , username , and password variables in the main method according to your `MySQL database` configuration.
