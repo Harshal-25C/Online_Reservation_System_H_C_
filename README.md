@@ -46,7 +46,7 @@ Ensure you have installed These on your system
 
 ## Usage :
 
-- Run the application.
+- Run the Application.
 - Log in using your MySQL username and password.
 
 Choose an option from the menu :
