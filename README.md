@@ -48,9 +48,9 @@ Ensure you have installed These on your system
 
 Choose an option from the menu :
 
-     > - 1. Insert Record
-     > - 2. Delete Record
-     > - 3. Show All Records
-     > - 4. Exit
+      1. Insert Record
+      2. Delete Record
+      3. Show All Records
+      4. Exit
 
    
