@@ -62,6 +62,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## LICENSE :
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 MIT License
 
 Copyright (c) 2024 Harshal Choudhary
