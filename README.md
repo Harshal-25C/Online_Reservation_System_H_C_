@@ -53,5 +53,11 @@ Choose an option from the menu :
 >  3. Show All Records
 >  4. Exit
 
+## Contributing :
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+- [ Harshal Choudhary ] - [ harshalchoudhary340@gmail.com ].
+
+## LICENSE :
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
    
