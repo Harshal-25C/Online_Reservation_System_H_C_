@@ -42,7 +42,7 @@ Ensure you have installed These on your system
    ```
 
 ## MySQL Database :
-![Harsh1]()
+![Harsh1](https://github.com/Harshal-25C/Online_Reservation_System_H_C_/blob/main/images/SQL_database.png)
 
 ## Usage :
 
