@@ -80,6 +80,7 @@ public class Task_1
             return from;
         }
 
+        //Using gotto function...
         public String getto() {
             System.out.println("\n~ Enter the destination place :  ");
             to = sc.nextLine();
